@@ -9,7 +9,7 @@ public class AppRunner1 implements CommandLineRunner {
 
 	@Override
 	public void run(String... args) throws Exception {
-		System.out.println("from Runner 1");
+		System.out.println("From Runner 1");
 	}
 
 }
